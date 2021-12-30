@@ -2,13 +2,13 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define WIFI_SSID "Sempre_Victor"
-#define WIFI_PASS "182530@260"
+#define WIFI_SSID "WIFI"
+#define WIFI_PASS "WIFI password"
 
 #define MQTT_SERV "io.adafruit.com"
 #define MQTT_PORT 1883
-#define MQTT_NAME "diferente"
-#define MQTT_PASS "aio_rrpG65ZjQEEUYbp0JX0keEHmj5p2"
+#define MQTT_NAME "adafruit user"
+#define MQTT_PASS "adafruit key"
 
 //Set up MQTT and WiFi clients
 WiFiClient client;
