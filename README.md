@@ -7,7 +7,7 @@ the code belongs to electroAkash link: "https://github.com/electroAkash/NodeMCU-
 The website https://io.adafruit.com/ that will allow connection between the API and the ESP.
 It's required to make a account and a dashboard![WhatsApp Image 2022-04-06 at 11 17 55 PM](https://user-images.githubusercontent.com/49661307/162107250-97f18b40-e287-4acd-865d-a18d15d35691.jpeg)
 
-## By clicking on the button: "my key" will appear the Username and active key, put this information in the lines 4 and 6 respectively for establish a connection between the adafruit broker and ESP.
+## By clicking on the button: "my key" will appear the Username and active key, put this information in the lines 10 and 11 respectively for establish a connection between the adafruit broker and ESP.
 
 # API IFTT
 https://ifttt.com/explore connect google assistant to broker adafruit.io
